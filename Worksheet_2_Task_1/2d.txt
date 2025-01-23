@@ -1,0 +1,1 @@
+All the algorithms exhibit a bell-shaped distribution, with a noticeable skew toward lower values.
